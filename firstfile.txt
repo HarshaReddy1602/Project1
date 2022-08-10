@@ -1,1 +1,0 @@
-This is Harsha's first file for learning GIT.
